@@ -66,17 +66,6 @@ Jupyter Notebook for running and displaying code and charts
 📁 Files
 covid_analysis.ipynb — Jupyter Notebook with full code and plots
 
-README.md — Project overview and summary
-
-covid_data.csv — Source dataset from Kaggle
-
-✅ How to Run
-Clone the repo
-
-Install required libraries (pip install pandas matplotlib)
-
-Run covid_analysis.ipynb in Jupyter
-
 📌 Credits
 Data source: Kaggle — Global COVID-19 dataset
 
